@@ -1,0 +1,17 @@
+# Xcode
+build/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+.DS_Store
+
+# SwiftPM
+.build/
+Packages/
+DerivedData/
+
+# Python / RecommendationService
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
