@@ -1,0 +1,56 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Не удалось открыть данные" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Не удалось открыть данные"
+          }
+        }
+      }
+    },
+    "Повторить" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Повторить"
+          }
+        }
+      }
+    },
+    "Подготовка локального хранилища…" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Подготовка локального хранилища…"
+          }
+        }
+      }
+    },
+    "Твои данные не были удалены. Попробуй открыть локальное хранилище ещё раз." : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Твои данные не были удалены. Попробуй открыть локальное хранилище ещё раз."
+          }
+        }
+      }
+    },
+    "Технические подробности" : {
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "machine_translated",
+            "value" : "Технические подробности"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.3"
+}
