@@ -2,7 +2,8 @@ from datetime import date
 
 from fastapi import APIRouter
 
-from fitflow_api.application.recommendation_engine import analyze, recommend
+from fitflow_api.application.analysis_service import analyze
+from fitflow_api.application.recommendation_engine import recommend
 from fitflow_api.models import (
     RecommendationRequest,
     RecommendationResponse,
